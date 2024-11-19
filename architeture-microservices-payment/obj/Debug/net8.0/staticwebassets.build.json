@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q6+EmS+z9Be9tmWqq2GhDrSJT4b19+RXydgljTAndiI=",
+  "Source": "architeture-microservices-payment",
+  "BasePath": "_content/architeture-microservices-payment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

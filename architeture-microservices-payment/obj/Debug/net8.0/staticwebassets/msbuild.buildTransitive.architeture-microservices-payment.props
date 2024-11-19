@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\architeture-microservices-payment.props" />
+</Project>
